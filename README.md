@@ -5,9 +5,7 @@ thoughts + writeups on ctfs
 future: migrate this to a hugo site
 
 todo:
-
--   fix file directory (add training and watctf)
--   speaking of, add watctf and csaw
+-   add watctf, csaw, and hacklu writeups
 -   do crew ctf as training b/c... couldn't do love notes :(
 
 pages:
